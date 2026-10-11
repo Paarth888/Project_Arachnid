@@ -1,1 +1,0 @@
-/home/leevai/quadbot_ws/src/cmd_vel_bridge/setup.py
